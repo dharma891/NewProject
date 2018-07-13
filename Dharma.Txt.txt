@@ -1,4 +1,7 @@
 My First changes
+<<<<<<< HEAD
 My Second changes
 My ThirdChanges 
 My Fourth Changes
+=======
+>>>>>>> parent of 70ed305... secondChanges
